@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Quiztion - Project 3</string>
+    <string name="question_1">1. What orange are full of?</string>
+    <string name="answer_1_a">Protein</string>
+    <string name="answer_1_b">Vitamin C</string>
+    <string name="answer_1_c">Iron</string>
+    <string name="answer_1_d">Calcium</string>
+    <string name="question_2">2. Which magical character emerged from Aladdin\'s lamp?</string>
+    <string name="answer_2_a">A witch</string>
+    <string name="answer_2_b">A fairy</string>
+    <string name="answer_2_c">An elf</string>
+    <string name="answer_2_d">A genie</string>
+    <string name="question_3">3. You have eight cookies and you eat three. How many are left?</string>
+    <string name="answer_3_hint">Type in a number</string>
+    <string name="question_4">4. Which of the following are reptiles?</string>
+    <string name="answer_4_a">Alligators</string>
+    <string name="answer_4_b">Crocodiles</string>
+    <string name="answer_4_c">Fish</string>
+    <string name="answer_4_d">Snakes</string>
+    <string name="question_5">5. If tomorrow is Wednesday, what day is today?</string>
+    <string name="answer_5_hint">Type in an answer</string>
+    <string name="score">See what you\'ve done!</string>
+    <string name="reset">Try again!</string>
+</resources>
